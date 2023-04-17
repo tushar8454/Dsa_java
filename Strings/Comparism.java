@@ -16,6 +16,7 @@ public class Comparism {
 
 //        they give true bcz they only checks the value
         System.out.println(a.equals(b));
+        System.out.println(a.charAt(0));
 
     }
 }
